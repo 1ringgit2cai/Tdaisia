@@ -4,6 +4,24 @@ body {
     padding: 0;
 }
 
+title {
+font-family: Georgia;
+font-size: 50px;
+font-weight: 400;
+line-height: 56.81px;
+text-align: center;
+background: #000000;
+}
+
+title2 {
+font-family: Lato;
+font-size: 18px;
+font-weight: 700;
+line-height: 32.4px;
+text-align: right;
+color: #104E97;
+
+}
 header {
     background-color: #fff;
     border-bottom: 1px solid #ddd;
