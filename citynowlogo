@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Citynow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            max-width: 600px;
+            text-align: center;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .logo img {
+            width: 50px;
+            margin-right: 10px;
+        }
+        .close-button {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            font-size: 20px;
+            cursor: pointer;
+        }
+        h1 {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .content {
+            text-align: left;
+        }
+        .content p {
+            margin: 10px 0;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="close-button">&times;</div>
+        <div class="logo">
+            <img
+            width= 192.86px;
+height= 50px;
+gap= 0px;
+opacity= 0px;
+src="https://s3-alpha-sig.figma.com/img/59d2/6651/c48fda88a053cbee707f0707b6e00961?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bAoQshmBVFcF3JcihY0zAoVIUjg-gIAGRsEkFt7G2Uulqzq3Rx8fGYg3N5knb525l1njkeqYDTOoMHZmAS0FbrGdLdXzMOBT4WO-k96cyjU4CowO1HbC~lrQfEUfV0hhdqSGcoH-YuYSuVHFgJjy4~zuzYai8IbGHNdbLM96VUc1ToZVPleVEjPJurVYpXdcDXD9lZNIIaDCzsjkHYI60sVbGc4VEqkJEf2UWYC9yPul7jz0YfTuIW9cWawEECJUzSU6oz9YuIxUs2ZAH0es60OwGWzKqIQzehDuYjncCxeDRn1Lu1U3zx2335nBAcCIbDIZO8xTtopbOX68egqO4Q__" alt="Citynow">
+            <div>
+                <h2>Citynow</h2>
+                <p>Create Tomorrow</p>
+            </div>
+        </div>
+        <h1>Predicting DELAYS in Transportation Process</h1>
+        <div class="content">
+            <p><strong>Customer:</strong> Citynow Technology Solutions</p>
+            <p>We helped the client to significantly improve the stock delay prediction models for suppliers in Japan and proposed a scalable solution for integrating into the production environment.</p>
+            <p>We provided all technical documents related and supported the client for necessary deployment.</p>
+        </div>
+    </div>
+</body>
+</html>
