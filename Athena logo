@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Athena Studio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="athena-logo.png" alt="Athena Studio Logo" class="logo">
+            <button class="close-btn">×</button>
+        </div>
+        <h1>Testing automation using reinforcement learning</h1>
+        <h2>Customers: Athena Studio (Vietnam)</h2>
+        <p>
+            Helped Athena Studio to automate the QA/QC process for their mobile game Woody that have over 20 millions gamers playing. We created three different bots for three levels (amateur, normal, professional) that can efficiently play games and help to test new versions of the game app for different environments (iOS and Android) and testing devices. Our bots were later used to generate AI players for battle games, where one gamer can be chosen to play randomly with our bots.
+        </p>
+    </div>
+</body>
+</html>
